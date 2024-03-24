@@ -1,0 +1,22 @@
+/* AboutServicesComponent.css */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .about-section, .services-section {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f0f0f0; 
+    border-radius: 10px;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .about-section, .services-section {
+      width: 90%;
+    }
+  }
+  
