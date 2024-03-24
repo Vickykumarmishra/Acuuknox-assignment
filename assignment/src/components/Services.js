@@ -11,17 +11,12 @@ export default function Services() {
 
 <section class="scrollport">
   <div className='col-sm-12 col-md-4 col-lg-3'>
-    <img src='ai.png' className="img-fluid" style={{padding:'0.2rem',borderRadius:"100%",height:'7rem'}}></img><br></br><br></br>
+    <img src='ai.jpg' className="img-fluid" style={{padding:'0.2rem',borderRadius:"100%",height:'7rem'}}></img><br></br><br></br>
     <h6 style={{color:"#05b993"}}>Artificial Intelligence</h6>
     <p style={{color:"green"}}>Cutting-edge AI solutions for intelligent automation and data-driven insights. </p>
   </div>
 
-  <div className='col-sm-12 col-md-4 col-lg-3'> <img src='web.jpg' className="img-fluid" style={{padding:'0.2rem',borderRadius:"100%",height:'7rem'}}></img><br></br><br></br>
-  <h6 style={{color:"#05b993"}}>Web development</h6>
-  <p style={{color:"green"}}>Innovative web development services to build stunning, user-friendly websites.
-
-</p>
-  </div>
+ 
 
   <div className='col-sm-12 col-md-4 col-lg-3'> <img src='web.jpg' className="img-fluid" style={{padding:'0.2rem',borderRadius:"100%",height:'7rem'}}></img><br></br><br></br>
   <h6 style={{color:"#05b993"}}>Cloud services</h6>
@@ -36,6 +31,10 @@ export default function Services() {
   <div className='col-sm-12 col-md-4 col-lg-3'> <img src='cyber.jpg' className="img-fluid" style={{padding:'0.2rem',borderRadius:"100%",height:'7rem'}}></img><br></br><br></br>
   <h6 style={{color:"#05b993"}}>Cyber Security</h6>
   <p style={{color:"green"}}>Robust cyber security measures to safeguard your digital assets and protect against threats. </p>
+  </div>
+  <div className='col-sm-12 col-md-4 col-lg-3'> <img src='web.jpg' className="img-fluid" style={{padding:'0.2rem',borderRadius:"100%",height:'7rem'}}></img><br></br><br></br>
+  <h6 style={{color:"#05b993"}}>Web development</h6>
+  <p style={{color:"green"}}>Innovative web development services to build stunning, user-friendly websites.</p>
   </div>
  
   
