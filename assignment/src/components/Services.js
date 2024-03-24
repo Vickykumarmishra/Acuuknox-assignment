@@ -11,7 +11,7 @@ export default function Services() {
 
 <section class="scrollport">
   <div className='col-sm-12 col-md-4 col-lg-3'>
-    <img src='ai.png' className="img-fluid" style={{padding:'0.2rem',borderRadius:"100%",height:'7rem'}}></img><br></br><br></br>
+    <img src='ai.jpg' className="img-fluid" style={{padding:'0.2rem',borderRadius:"100%",height:'7rem'}}></img><br></br><br></br>
     <h6 style={{color:"#05b993"}}>Artificial Intelligence</h6>
     <p style={{color:"green"}}>Cutting-edge AI solutions for intelligent automation and data-driven insights. </p>
   </div>
@@ -23,7 +23,7 @@ export default function Services() {
 </p>
   </div>
 
-  <div className='col-sm-12 col-md-4 col-lg-3'> <img src='cloud.png' className="img-fluid" style={{padding:'0.2rem',borderRadius:"100%",height:'7rem'}}></img><br></br><br></br>
+  <div className='col-sm-12 col-md-4 col-lg-3'> <img src='cloud.jpg' className="img-fluid" style={{padding:'0.2rem',borderRadius:"100%",height:'7rem'}}></img><br></br><br></br>
   <h6 style={{color:"#05b993"}}>Cloud services</h6>
   <p style={{color:"green"}}>Scalable cloud solutions tailored to your business needs for enhanced efficiency and flexibility.</p>
   </div>

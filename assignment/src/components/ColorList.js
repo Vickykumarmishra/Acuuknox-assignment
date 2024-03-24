@@ -14,7 +14,7 @@ export default function ColorList() {
      var search=document.getElementById("searchbar").value;
     let newdata= data.filter((curr,index)=>{
          
-        if(data[index].color===search||data[index].value===search){
+        if(data[index].color.toLowerCase()===search.toLowerCase()||data[index].value.toLowerCase()===search.toLowerCase()){
             
             return data[index]
         }
