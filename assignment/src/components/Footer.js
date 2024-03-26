@@ -81,7 +81,7 @@ export default function Footer() {
                style={{backgroundColor:'#55acee'}}
                href="#!"
                role="button"
-               ><i class="fa fa-twitter"></i
+               ><i class="fab fa-twitter"></i
               ></a>
 
           
